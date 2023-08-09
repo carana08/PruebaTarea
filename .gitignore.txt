@@ -1,0 +1,10 @@
+# Nombre del ejecutable
+alexa
+
+# archivos objects
+*.o
+ 
+# archivos temporales
+~*
+*.swp
+*.swp
